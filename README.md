@@ -6,6 +6,7 @@ A **WPF-based** C# application that collects user input (name, email, birth date
 
 ✔ **User Input Form**: Enter first name, last name, email, and birth date.  
 ✔ **Age Validation**: Ensures user age is **between 0 and 135 years**.  
+✔ **Email Validation**: Ensures user email is **valid using simple regex check**. 
 ✔ **Date Input Reset**: If invalid, clears the **DatePicker** and shows an error.  
 ✔ **Zodiac Calculation**: Computes both **Western** and **Chinese zodiac signs**.  
 ✔ **Birthday Message**: 🎉 Displays a greeting if today is the user's birthday.  
